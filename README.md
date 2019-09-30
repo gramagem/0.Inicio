@@ -1,4 +1,4 @@
 # 0.Inicio
 
 ## Páginas clase
-*[Página clase 2GP](https://arques.github.io/2GP/)
+* [Página clase 2GP](https://arquesm.github.io/2GP/)
