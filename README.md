@@ -3,6 +3,8 @@ Crea un repositorio
 
 ##Actividades
 * [1_sitioweb]. https://gramagem.github.io/1_Sitioweb/
+* [2_cmyk].
+* [3_Broom]. 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
 * [Lenguaje etiquetas github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
