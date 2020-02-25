@@ -8,7 +8,7 @@ Crea un repositorio
 * [4_Maquetación]. 
 * [5_Tarjetas].
 * [6_Landingpage].
-* [7_Grid_moma].
+* [7_Grid_moma].https://github.com/gramagem/7_Grid_moma/
 * [8_Gridarea_minimalisimoshop]
 * [14_Java_Script]. https://gramagem.github.io/14_js/
 ## Páginas clase
