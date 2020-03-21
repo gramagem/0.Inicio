@@ -8,7 +8,7 @@
 * [4_Maquetació]. 
 * [5_Tarjetes].
 * [6_Landingpage].
-* [7_Grid_moma].https://github.com/gramagem/7_Grid_moma/
+* [7_Grid_moma].https://gramagem.github.io/7_Grid_moma/
 * [8_GridArea].
 * [9_Aesop].
 * [10_Menús].
