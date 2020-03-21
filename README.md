@@ -1,16 +1,19 @@
 # 0.Inicio
-Crea un repositorio
+
 
 ##Actividades
-* [1_Sitioweb]. https://gramagem.github.io/1_Sitioweb/
-* [2_Cmyk]. https://gramagem.github.io/2_CMYK/
-* [3_Broom]. https://gramagem.github.io/3_Broom/
-* [4_Maquetación]. 
-* [5_Tarjetas].
+* [1_Llocweb]. https://gramagem.github.io/1_Sitioweb/
+* [2_CMYK]. https://gramagem.github.io/2_CMYK/
+* [3_Broooom]. https://gramagem.github.io/3_Broom/
+* [4_Maquetació]. 
+* [5_Tarjetes].
 * [6_Landingpage].
 * [7_Grid_moma].https://github.com/gramagem/7_Grid_moma/
-* [8_Gridarea_minimalisimoshop]
-* [14_Java_Script]. https://gramagem.github.io/14_js/
+* [8_GridArea].
+* [9_Aesop].
+* [10_Menús].
+* [11_JS treball en parelles]. https://gramagem.github.io/14_js/
+* [12_Portfolio].
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
 * [Lenguaje etiquetas github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
