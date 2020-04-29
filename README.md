@@ -2,9 +2,9 @@
 
 
 ##Actividades
-* [1_Llocweb]. https://gramagem.github.io/1_Sitioweb/
+* [1_Llocweb]. https://gramagem.github.io/1_Llocweb/
 * [2_CMYK]. https://gramagem.github.io/2_CMYK/
-* [3_Broooom]. https://gramagem.github.io/3_Broom/
+* [3_Broooom]. https://gramagem.github.io/3_Broooom/
 * [4_Maquetació]. 
 * [5_Tarjetes].
 * [6_Landingpage].
