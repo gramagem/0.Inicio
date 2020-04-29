@@ -7,7 +7,7 @@
 * [3_Broooom]. https://gramagem.github.io/3_Broooom/
 * [4_Maquetació]. https://gramagem.github.io/4_Maquetacion/
 * [5_Tarjetes]. https://gramagem.github.io/5_Tarjetas/
-* [6_Landingpage].
+* [6_Landingpage].https://gramagem.github.io/6_LangingPage/
 * [7_Grid_moma].
 * [8_GridArea].
 * [9_Aesop].
