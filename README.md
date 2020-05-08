@@ -10,7 +10,7 @@
 * [6_Landingpage].https://gramagem.github.io/6_LangingPage/
 * [7_Grid_moma]. https://gramagem.github.io/7_GridMoma/
 * [8_GridArea].https://gramagem.github.io/8_GridArea/
-* [9_Aesop].
+* [9_Aesop].https://gramagem.github.io/9_Aesop/
 * [10_Menús].
 * [11_JS treball en parelles]. https://gramagem.github.io/14_js/
 * [12_Portfolio].
