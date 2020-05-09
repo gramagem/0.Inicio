@@ -11,7 +11,7 @@
 * [7_Grid_moma]. https://gramagem.github.io/7_GridMoma/
 * [8_GridArea].https://gramagem.github.io/8_GridArea/
 * [9_Aesop].https://gramagem.github.io/9_Aesop/
-* [10_Menús].
+* [10_Menú].https://gramagem.github.io/10_Menu/
 * [11_JS treball en parelles]. https://gramagem.github.io/14_js/
 * [12_Portfolio].
 ## Páginas clase
