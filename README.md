@@ -13,7 +13,7 @@
 * [9_Aesop].https://gramagem.github.io/9_Aesop/
 * [10_Menú].https://gramagem.github.io/10_Menu/
 * [11_JS treball en parelles]. https://gramagem.github.io/14_js/
-* [12_Portfolio].
+* [12_EXAMEN1].https://gramagem.github.io/12_Examen1/
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
 * [Lenguaje etiquetas github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
